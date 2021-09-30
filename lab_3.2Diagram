@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T12:27:31.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.50" etag="xx4oAM5g4yXOG_KePWXc" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T12:28:07.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.50" etag="3eOzwt3xQf8r6HWIpyzq" version="15.3.8" type="github">
   <diagram id="ci5zbt2KcIwJnOWQYfUV" name="Page-1">
     <mxGraphModel dx="742" dy="3945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="OQcUbBVe2fJVFDPDr4AV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OQcUbBVe2fJVFDPDr4AV-1" target="OQcUbBVe2fJVFDPDr4AV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQcUbBVe2fJVFDPDr4AV-1" value="початок" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="354" y="-2840" width="120" height="60" as="geometry" />
+        <mxCell id="OQcUbBVe2fJVFDPDr4AV-1" value="початок" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="-2820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OQcUbBVe2fJVFDPDr4AV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OQcUbBVe2fJVFDPDr4AV-2" target="OQcUbBVe2fJVFDPDr4AV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -203,8 +203,8 @@
             <mxPoint x="440" y="-1420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQcUbBVe2fJVFDPDr4AV-49" value="кінець" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-1360" width="120" height="60" as="geometry" />
+        <mxCell id="OQcUbBVe2fJVFDPDr4AV-49" value="кінець" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-1360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="msrZurm0gZ8LX2I6LKE0-1" value="F" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="-1480" width="120" height="80" as="geometry" />
